@@ -58,7 +58,7 @@
     "monotonic-timestamp": "0.0.9",
     "morgan": "^1.9.0",
     "openzeppelin-solidity": "^1.9.0",
-    "parsec-lib": "github:parsec-labs/parsec-lib",
+    "parsec-lib": "^0.13.3",
     "request": "^2.83.0",
     "request-promise-native": "^1.0.5",
     "safe-buffer": "^5.1.1",
